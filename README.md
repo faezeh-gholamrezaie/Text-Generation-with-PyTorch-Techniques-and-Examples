@@ -8,4 +8,4 @@ The bigram model is used to generate characters. We train the model using a note
 
 # Resources:
 
-wizard_of_oz.txt : [https://github.com/kwartler/text_mining/tree/master]
+wizard_of_oz.txt : https://github.com/kwartler/text_mining/tree/master
